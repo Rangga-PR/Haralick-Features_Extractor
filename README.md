@@ -9,4 +9,4 @@ this winfroms based windows application is used to create a dataset of haralick 
 
 ## Authors
 
-* **Rangga Putra Raharja** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Rangga Putra Raharja** -(https://github.com/Rangga-PR)
